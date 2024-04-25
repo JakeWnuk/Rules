@@ -30,8 +30,8 @@ Prepend rules from frequency sorted data.
 - In order by performance
 
 ### Taggle Rules
-Prepend/Append and toggle rules in one from frequency sorted data.
-- Prepend/Append and toggle rules in one per rule
+Append and toggle rules in one from frequency sorted data.
+- Append and toggle rules in one per rule
 - In order by performance
 
 ### Poggle Rules
