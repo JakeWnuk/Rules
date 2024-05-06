@@ -8,8 +8,7 @@ Hashcat Rules
 Iterative rules designed for consistent coverage. Hand-selected to ensure efficient tasks.
 - Each rule set is built off the last
 - Rules were hand selected to match generic password structure and avoid highly specific rules
-- Rule sets have been optimized with [ruleprocessorY](https://github.com/TheWorkingDeveloper/ruleprocessorY)
-- Rules were designed to be applied against full candidates
+- `50k` version includes top rules from the `partial candidate` rules
 - In order by length
 
 ### Post Rules
