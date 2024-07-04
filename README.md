@@ -37,3 +37,7 @@ Append and toggle rules in one from frequency sorted data.
 Prepend and toggle rules in one from frequency sorted data.
 - Prepend and toggle rules in one per rule
 - In order by performance
+
+### Bad Rules
+Rules for bad passwords.
+- `25` total
