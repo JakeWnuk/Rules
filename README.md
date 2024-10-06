@@ -6,7 +6,7 @@
 
 `local50k-250k`: Uses `local30k` as a foundation then iteratively builds for coverage.Preference based selection by adding top selection of other rules.
 
-- Beyond `250k` contains non-repository rules created by myself
+- Beyond `250k` contains all repository rules and non-repository rules created by myself
 
 ### Other Rules
 `post`: Focused rules for "post-processing" after base changes.
