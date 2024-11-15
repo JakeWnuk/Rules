@@ -3,7 +3,7 @@
 
 `_50-30k`: Iterative rules designed for consistent coverage. Hand-selected to ensure efficient tasks. Each rule set is built off the last.
 
-`_50k-250k`: Uses `_30k` as a foundation then iteratively builds for coverage. `_250k` contains all `Other Rules` and the start/inclusion of the non-classified rules. 
+`_50k-250k`: Uses `_30k` as a foundation then iteratively builds for coverage using the `Other Rules`. `_250k` contains all `Other Rules` and the start/inclusion of the non-classified rules. 
 
 `_250k-?`: Uses `_250k` as a foundation then iteratively builds for coverage. Additions are non-classified rules from my methodologies over time. 
 
