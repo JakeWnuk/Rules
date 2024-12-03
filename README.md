@@ -1,5 +1,5 @@
 ## _ Rules
-`_15`: Smallest rule. Unrelated to `50-30k`.
+`_15`: Smallest rule. Unrelated to other `_` rules but is included in `_250k.rule`.
 
 `_50-10k`: Iterative rules designed for consistent coverage. Hand-selected to ensure efficient tasks. Each rule set is built off the last.
 
